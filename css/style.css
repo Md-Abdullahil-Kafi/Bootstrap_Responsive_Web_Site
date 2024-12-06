@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+li a:hover{
+    background-color: #198754;
+    color: aliceblue!important;
+    transition: 0.4s;
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color:#008000 ;
+    border-radius: 50%;
+
+}
+.text-align{
+    margin-top:34%;
+}
+.card-1{
+    margin-bottom: 30px;
+}
+.contact{
+    margin-left: 10%;
+}
+
+.p-text{
+    text-align: justify;
+}
